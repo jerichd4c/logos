@@ -6,6 +6,7 @@ Programming language logos (SVG) used in the READMEs of my other repositories.
 |---|---|
 | `c_logo.svg` | C |
 | `cpp_logo.svg` | C++ |
+| `go_logo.svg` | Go |
 | `java_logo.svg` | Java |
 | `javascript_logo.svg` | JavaScript |
 | `python_logo.svg` | Python |
